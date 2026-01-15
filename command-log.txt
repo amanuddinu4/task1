@@ -1,0 +1,29 @@
+1. pwd
+   Shows current working directory.
+
+2. ls -la
+   Lists all files including hidden ones.
+
+3. mkdir devops
+   Creates a directory named devops.
+
+4. touch notes.txt
+   Creates an empty file.
+
+5. nano notes.txt
+   Opens file in nano editor.
+
+6. chmod 755 script.sh
+   Changes file permissions.
+
+7. chown ubuntu:ubuntu script.sh
+   Changes owner and group.
+
+8. top
+   Shows running processes.
+
+9. df -h
+   Shows disk usage.
+
+10. free -m
+    Shows memory usage.
